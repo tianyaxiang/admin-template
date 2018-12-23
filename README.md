@@ -1,5 +1,5 @@
 # SpringBoot-AdminLte
-
+基于AdminLte 构建的Spring Boot Web 后台模板。
 ## domain
 * SprintBoot
 * AdminLte 2.4.8
