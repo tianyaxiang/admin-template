@@ -2,8 +2,13 @@
 基于AdminLte 构建的Spring Boot Web 后台模板。
 ## domain
 * SprintBoot
+* Spring Security
+* Thymeleaf iew
 * AdminLte 2.4.8
 
+TODO
+---
+* 权限
 ## Documentation & Installation Guide
 Visit the [online documentation](https://adminlte.io/docs) for the most
 updated guide.
