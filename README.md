@@ -10,5 +10,7 @@ updated guide.
 
 !["AdminLTE Presentation"](https://adminlte.io/AdminLTE2.png "AdminLTE Presentation")
 
-License
-AdminLTE is an open source project by AdminLTE.IO that is licensed under MIT. AdminLTE.IO reserves the right to change the license of future releases. Wondering what you can or can't do? View the license guide.
+### AdminLte License
+AdminLTE is an open source project by [AdminLTE.IO](https://adminlte.io) that is licensed under [MIT](http://opensource.org/licenses/MIT). AdminLTE.IO
+reserves the right to change the license of future releases. Wondering what you can or can't do? View the [license guide](https://adminlte.io/docs/license).
+
